@@ -1,4 +1,5 @@
 _repo: Tioba-and-Other-Tales_50271
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Frost, A. B. (Arthur Burdett)
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24799'
     url: http://www.gutenberg.org/2009/agents/24799
     wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+covers:
+- cover_type: archival
+  image_path: 50271-h/images/cover.jpg
 creator:
   author:
     agent_name: Colton, Arthur
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '2228'
     url: http://www.gutenberg.org/2009/agents/2228
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50271#Tioba-and-Other-Tales
 gutenberg_issued: '2015-10-21'
 gutenberg_type: Text
 identifiers:
